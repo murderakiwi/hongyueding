@@ -10,4 +10,5 @@ I used to study at Warwick.
 2. Crochetting
 3. Playing video games
 
-[sample link for testing](https://www.example.com)
+[Imperial MSc in Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/)
+
