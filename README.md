@@ -6,6 +6,6 @@ My undergraduate course is Mathematics and Statistics and my MSc course is Stati
 ## My hobbies
 1. Knitting
 2. Crochetting
-3. Playing video games
+3. Playing video game
 
 [sample link](https://www.example.com)
