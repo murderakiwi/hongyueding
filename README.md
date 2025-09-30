@@ -11,4 +11,6 @@ I used to study at Warwick.
 3. Playing video games
 
 [Imperial MSc in Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/)
+------
+last updated: 2024-09-20
 
